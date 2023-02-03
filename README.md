@@ -7,13 +7,13 @@
 ./search Interage com o ChatGPT(Davinci-003.
 
 ```
-./img Cat
+  ./img Cat
 ```
 
 ./img Gera imagens utilizando a DALL-E.
 
 ```
-./shutdown
+  ./shutdown
 ```
 
 ./shutdown Finaliza o processo do bot.
