@@ -1,3 +1,5 @@
+Ideia retirada do post do Victor Harry no <a href="https://www.tabnews.com.br/victorharry/guia-completo-de-como-integrar-o-chat-gpt-com-whatsapp" target="_blank">TabNews</a>.
+
 ## Comandos.
 
 ```
