@@ -32,7 +32,7 @@ Clone com o seguinte comando:
 
 Renomeie o arquivo .env.example para .env e altere seu conteúdo.
 
-Agora rode o próximo comando para realizar o download das dependências
+Agora rode o próximo comando para realizar o download das dependências.
 
 ```bash
   npm install
